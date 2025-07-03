@@ -33,35 +33,40 @@ It accomplishes this by using:
 ---
 
 ## 🛠️ Simulation Overview
-
+Material- Gold-Lossy material
+Substrate-Rogers RO3006
+Resistor-100 ohms
+All dimensions are in mm
+![Parameter](https://github.com/samueloladosu37/Wilkinson-Power-Divider-CST-Simulation/blob/main/Parameter%20List.png)
 - **Tool Used**: CST Studio Suite
 - **Simulation Type**: S-Parameter analysis
 - **Frequency Range**: [75GHz - 110GHz]
 - **Target**: 3 dB equal power split with high output isolation
 
 > 📌 Design
-![S-Parameters](./6bb71a1f-a488-45df-a6e6-9efbbdc6f85a.png)
-![S-Parameters](./6bb71a1f-a488-45df-a6e6-9efbbdc6f85a.png)
+![S-Parameters](https://github.com/samueloladosu37/Wilkinson-Power-Divider-CST-Simulation/blob/main/Wilkinson%20PD.png)
+![Design](https://github.com/samueloladosu37/Wilkinson-Power-Divider-CST-Simulation/blob/main/Design.png)
+Note that the Radius of the arc;qtr-wave length, it was calculated but due to design variability, parametric sweep was carried out to obtain the best result at 0.14mm
 ---
 
 ## 📈 CST Simulation Results
 
-![S-Parameters](./6bb71a1f-a488-45df-a6e6-9efbbdc6f85a.png)
-![S-Parameters](./6bb71a1f-a488-45df-a6e6-9efbbdc6f85a.png)
-![S-Parameters](./6bb71a1f-a488-45df-a6e6-9efbbdc6f85a.png)
+![S-Parameters](https://github.com/samueloladosu37/Wilkinson-Power-Divider-CST-Simulation/blob/main/s11.png)
+![S-Parameters](https://github.com/samueloladosu37/Wilkinson-Power-Divider-CST-Simulation/blob/main/S21%2C%20S31.png)
+![S-Parameters]([./6bb71a1f-a488-45df-a6e6-9efbbdc6f85a.png](https://github.com/samueloladosu37/Wilkinson-Power-Divider-CST-Simulation/blob/main/s23.png))
 
 **Figure:** S-parameter magnitude plot of the Wilkinson Power Divider from 75–110 GHz
 
 ### ✅ Key Results:
 
 - **Return Loss (S11):**  
-  < -15 dB near 95–100 GHz → well-matched input
+  < -13 dB  → well-matched input
 
 - **Equal Power Split (S21 ≈ S31):**  
   Close to -3 dB → confirms ideal 50/50 power division
 
 - **Isolation (S23):**  
-  Better than -20 dB → excellent isolation between output ports
+  Better than -10 dB → good isolation between output ports
 
 These results confirm that the divider meets its target functionality within the mmWave band. The simulation shows strong performance in matching, isolation, and transmission symmetry — all key for a well-designed Wilkinson Power Divider.
 
