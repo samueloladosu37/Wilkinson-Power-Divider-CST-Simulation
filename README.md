@@ -65,4 +65,7 @@ It accomplishes this by using:
 
 These results confirm that the divider meets its target functionality within the mmWave band. The simulation shows strong performance in matching, isolation, and transmission symmetry — all key for a well-designed Wilkinson Power Divider.
 
+### ✅ Reference
+The design principles were taken from:
 
+D. M. Pozar, Microwave Engineering, 4th ed. John Wiley & Sons, Inc., 2011.
