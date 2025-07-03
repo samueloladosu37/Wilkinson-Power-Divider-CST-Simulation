@@ -37,6 +37,8 @@ Material- Gold-Lossy material
 Substrate-Rogers RO3006
 Resistor-100 ohms
 All dimensions are in mm
+
+
 ![Parameter](https://github.com/samueloladosu37/Wilkinson-Power-Divider-CST-Simulation/blob/main/Parameter%20List.png)
 - **Tool Used**: CST Studio Suite
 - **Simulation Type**: S-Parameter analysis
