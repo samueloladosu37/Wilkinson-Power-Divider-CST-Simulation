@@ -53,7 +53,7 @@ Note that the Radius of the arc;qtr-wave length, it was calculated but due to de
 
 ![S-Parameters](https://github.com/samueloladosu37/Wilkinson-Power-Divider-CST-Simulation/blob/main/s11.png)
 ![S-Parameters](https://github.com/samueloladosu37/Wilkinson-Power-Divider-CST-Simulation/blob/main/S21%2C%20S31.png)
-![S-Parameters]([./6bb71a1f-a488-45df-a6e6-9efbbdc6f85a.png](https://github.com/samueloladosu37/Wilkinson-Power-Divider-CST-Simulation/blob/main/s23.png))
+![S-Parameters](https://github.com/samueloladosu37/Wilkinson-Power-Divider-CST-Simulation/blob/main/s23.png)
 
 **Figure:** S-parameter magnitude plot of the Wilkinson Power Divider from 75–110 GHz
 
