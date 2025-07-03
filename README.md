@@ -40,16 +40,29 @@ It accomplishes this by using:
 - **Target**: 3 dB equal power split with high output isolation
 
 > 📌 Design
-
+![S-Parameters](./6bb71a1f-a488-45df-a6e6-9efbbdc6f85a.png)
+![S-Parameters](./6bb71a1f-a488-45df-a6e6-9efbbdc6f85a.png)
 ---
 
-## 📈 Results
+## 📈 CST Simulation Results
 
-Include screenshots or plots here (once uploaded):
+![S-Parameters](./6bb71a1f-a488-45df-a6e6-9efbbdc6f85a.png)
+![S-Parameters](./6bb71a1f-a488-45df-a6e6-9efbbdc6f85a.png)
+![S-Parameters](./6bb71a1f-a488-45df-a6e6-9efbbdc6f85a.png)
 
-- S-parameters plot (`S11`, `S21`, `S31`)
-- Electric field or current density snapshot (optional)
-- Isolation curve (between Port 2 and Port 3)
+**Figure:** S-parameter magnitude plot of the Wilkinson Power Divider from 75–110 GHz
 
-Example:
+### ✅ Key Results:
+
+- **Return Loss (S11):**  
+  < -15 dB near 95–100 GHz → well-matched input
+
+- **Equal Power Split (S21 ≈ S31):**  
+  Close to -3 dB → confirms ideal 50/50 power division
+
+- **Isolation (S23):**  
+  Better than -20 dB → excellent isolation between output ports
+
+These results confirm that the divider meets its target functionality within the mmWave band. The simulation shows strong performance in matching, isolation, and transmission symmetry — all key for a well-designed Wilkinson Power Divider.
+
 
