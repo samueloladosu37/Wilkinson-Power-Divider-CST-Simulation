@@ -33,10 +33,10 @@ It accomplishes this by using:
 ---
 
 ## 🛠️ Simulation Overview
-Material- Gold-Lossy material
-Substrate-Rogers RO3006
-Resistor-100 ohms
-All dimensions are in mm
+-Material- Gold-Lossy material
+-Substrate-Rogers RO3006
+-Resistor-100 ohms
+-All dimensions are in mm
 
 
 ![Parameter](https://github.com/samueloladosu37/Wilkinson-Power-Divider-CST-Simulation/blob/main/Parameter%20List.png)
