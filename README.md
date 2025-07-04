@@ -60,15 +60,15 @@ It accomplishes this by using:
 **Figure:** S-parameter magnitude plot of the Wilkinson Power Divider from 75–110 GHz
 
 ### ✅ Key Results:
-
+Bandwidth: 93–100 GHz (optimal performance)
 - **Return Loss (S11):**  
-  Drops below **–60 dB** near 80 GHz → ✅ **Excellent match**
+  Drops below **–30 dB** near 95 GHz → ✅ **Excellent match**
 
 - **Transmission (S21/S31):**  
-  Balanced around **–3 to –4 dB** → ✅ Maintains ideal 50/50 power split
+  Balanced around **–3 to –6 dB** → ✅ Maintains ideal 50/50 power split
 
 - **Isolation (S23):**  
-  Remains **below –20 dB** across key band → ✅ Strong isolation
+  reaches **below –35 dB** at 100GHz → ✅ Strong isolation
 
 These results confirm that the divider meets its target functionality within the mmWave band. The simulation shows strong performance in matching, isolation, and transmission symmetry — all key for a well-designed Wilkinson Power Divider.
 
