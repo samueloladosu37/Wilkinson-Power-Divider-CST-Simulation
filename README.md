@@ -62,13 +62,13 @@ Note that the Radius of the arc;qtr-wave length, it was calculated but due to de
 ### ✅ Key Results:
 
 - **Return Loss (S11):**  
-  < -13 dB  → well-matched input
+  Drops below **–60 dB** near 80 GHz → ✅ **Excellent match**
 
-- **Equal Power Split (S21 ≈ S31):**  
-  Close to -3 dB → confirms ideal 50/50 power division
+- **Transmission (S21/S31):**  
+  Balanced around **–3 to –4 dB** → ✅ Maintains ideal 50/50 power split
 
 - **Isolation (S23):**  
-  Better than -10 dB → good isolation between output ports
+  Remains **below –20 dB** across key band → ✅ Strong isolation
 
 These results confirm that the divider meets its target functionality within the mmWave band. The simulation shows strong performance in matching, isolation, and transmission symmetry — all key for a well-designed Wilkinson Power Divider.
 
