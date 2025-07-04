@@ -47,7 +47,7 @@ It accomplishes this by using:
 
 > 📌 Design
 ![S-Parameters](https://github.com/samueloladosu37/Wilkinson-Power-Divider-CST-Simulation/blob/main/Wilkinson%20PD.png)
-![Design](https://github.com/samueloladosu37/Wilkinson-Power-Divider-CST-Simulation/blob/main/Design.png)
+![Design](https://github.com/samueloladosu37/Wilkinson-Power-Divider-CST-Simulation/blob/main/PD%20Design.png)
 Note that the Radius of the arc;qtr-wave length, it was calculated but due to design variability, parametric sweep was carried out to obtain the best result at 0.14mm 
 ---
 
