@@ -53,7 +53,7 @@ Note that the Radius of the arc;qtr-wave length, it was calculated but due to de
 
 ## 📈 CST Simulation Results
 ![Design](https://github.com/samueloladosu37/Wilkinson-Power-Divider-CST-Simulation/blob/main/Wilkinson%20PD_09.gif)
-![S-Parameters](https://github.com/samueloladosu37/Wilkinson-Power-Divider-CST-Simulation/blob/main/s11.png)
+![S-Parameters](https://github.com/samueloladosu37/Wilkinson-Power-Divider-CST-Simulation/blob/main/S11.png)
 ![S-Parameters](https://github.com/samueloladosu37/Wilkinson-Power-Divider-CST-Simulation/blob/main/S21%2C%20S31.png)
 ![S-Parameters](https://github.com/samueloladosu37/Wilkinson-Power-Divider-CST-Simulation/blob/main/s23.png)
 
